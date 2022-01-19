@@ -21,3 +21,5 @@ The program uses pandas, numpy, and math libraries on Python alongsides key conc
 ## Other information
 The Twitter data in the Excel file is provided by our course instructor for the educational purpose of the course only.
 I am grateful for our instructor, Thay Phan Thanh Trung, as he kindly gave us access to the dataset as well as clear instructions and requirements on this analysis assignment.
+
+#python #university #computerscience #dataanalysis #learning #pythonproject
