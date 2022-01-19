@@ -87,7 +87,7 @@ def find_top20_retweets():
 
 def find_top30(): 
     '''
-    Print the top 30 most popular hasgtags, ranked by order 
+    Print the top 30 most popular hashtags, ranked by order 
     '''
     # split string in 'hashtagsVal' into smaller strings separated by space, then add to dict_has
     dict_has = {}
